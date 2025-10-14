@@ -85,3 +85,5 @@ triangle_perimeter(3, 4, 5)  # 12
 
 ## Change History
 - `c34f7a7`: Added docstrings to functions.
+- `bef572f`: Update documentation.md
+- `b708113`: Update readme.md
