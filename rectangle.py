@@ -29,4 +29,4 @@ def rectangle_perimeter(a, b):
         >>> rectangle_perimeter(4, 5)
         18
     '''
-    return a + b
+    return 2*(a + b)
